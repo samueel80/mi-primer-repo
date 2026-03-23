@@ -1,2 +1,2 @@
 # mi-primer-repo
-¡Hola!
+Soy estudiante en prácticas de ASIR
